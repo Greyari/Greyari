@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+# About Me
 
 ```js
 const greyari = {
@@ -18,11 +18,11 @@ const greyari = {
 };
 ```
 
-## Tech Stack
+# Tech Stack
 
 `Laravel` `PHP` `MySQL` `REST API` `Flutter` `Alpine.js` `Firebase` `Git` `Postman`
 
-## Projects
+# Projects
 
 **[HRIS Backend API](https://github.com/Greyari/HR)** — Attendance, overtime & employee management system
 
