@@ -65,18 +65,4 @@ const greyari = {
 
 ---
 
-## Projects
-
-**[HRIS Backend API](https://github.com/Greyari/HR)** — Employee, attendance & overtime management system
-
-**[Web POS](https://github.com/Greyari/web-pos)** — Point of sale with inventory & sales reports
-
-**[Loyalty Points](https://github.com/Greyari/loyalty-points)** — Customer rewards & points management API
-
----
-
-<div align="center">
-
-*Thanks for visiting 🙏*
-
 </div>
